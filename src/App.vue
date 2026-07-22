@@ -1,5 +1,5 @@
 <template>
-<h2>HelloWorld HelloGit</h2>
+<h3>Hi Vue.hs</h3>
 </template>
 
 <script>
